@@ -132,3 +132,6 @@ py/.handler-saves
 
 # DB
 db/
+
+# Logs
+logs/driver_logs/
